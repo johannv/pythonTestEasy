@@ -7,7 +7,7 @@ Technical test Python for trainee and junior developper
 
 Download the package on your machine. Open the project with Eclipse 
 
-# Requirement 
+### Requirement 
 
 You need to install PyDev (eclipse plugin at remote : http://pydev.org/updates/)
 
@@ -15,10 +15,10 @@ You need to install PyDev (eclipse plugin at remote : http://pydev.org/updates/)
 ## Test
 
 ### Informations
-- Open the file "src/Code.py" in eclipse and only ask candidate to fill the functions with java code
-- No need explications, the exercices are explains in comment
-- No need interne for this test
-- No need to modificate the other classes
+- Open the file "src/Code.py" in eclipse and ask candidate to fill in the functions with java code
+- All the exercices are explained in comments
+- No need internet for this test
+- No need to modify the other classes
 
 ### Result
 
